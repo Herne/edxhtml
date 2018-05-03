@@ -1,0 +1,24 @@
+body, html {
+    font-size: 25px;
+    font-family: sans-serif;
+}
+address {
+    font-size: .7rem;
+    font-family: cursive;
+    color: rgba(10,200,255,0.5);
+    text-align: right;
+}
+h1 {
+    color: crimson;
+    text-align: center;
+}
+
+p {
+    line-height: 2.0em;
+    color: #3a2bff;
+    margin: 30px;
+}
+a {
+    text-decoration: underline;
+    text-decoration-color: darkred;
+}
