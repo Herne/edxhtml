@@ -1,0 +1,23 @@
+html, body{
+    font-size: 16px;
+}
+h1 {
+    font-size: 20px;
+}
+ 
+ol {
+    padding: 0 0 0 1em;
+    margin: 1em 0;
+    color: #313131;
+    border: 1px solid blue;
+}
+li {
+    font-size: 0.9rem;
+    list-style-type:simp-chinese-formal;
+    list-style-position: inside;
+}
+#p18 {color: blue;}
+#p19 {color: green;}
+.bird {color: blue;}
+.insect {color: green;}
+.flying {text-decoration: underline;}
