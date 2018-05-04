@@ -1,5 +1,5 @@
 .svg {
-    cursor: url(heart.svg) 5 5, auto;
+    cursor: url(../images/heart.svg) 5 5, auto;
   }
   
   .svg-base64 { 
